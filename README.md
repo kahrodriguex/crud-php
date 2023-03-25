@@ -46,4 +46,6 @@
 #### Após a instalação, clique em **START** nas opções destacadas na imagem abaixo.
 <img width=430 height=300 src=https://3.bp.blogspot.com/-5OZrNnSxOz0/WiPc8Fld_MI/AAAAAAAAMA0/qrSeKq3LLvwXdVxCw4TFHOld4HsRFB39gCLcBGAs/s1600/Xampp-Control-Panel-not-running.png>
 
-### Em seguida, faça o download zip 
+#### Em seguida, faça o download zip de todos esses arquivos e depois extraia para área de trabalho ou onde desejar!
+<img width=440 height=310 src=https://github.com/kahrodriguex/crud-php/blob/main/ImagemEx1.png>
+
