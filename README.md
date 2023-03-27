@@ -46,7 +46,7 @@
 #### Após a instalação, clique em **START** nas opções destacadas na imagem abaixo.
 <img width=430 height=300 src=https://3.bp.blogspot.com/-5OZrNnSxOz0/WiPc8Fld_MI/AAAAAAAAMA0/qrSeKq3LLvwXdVxCw4TFHOld4HsRFB39gCLcBGAs/s1600/Xampp-Control-Panel-not-running.png>
 
-#### Em seguida, faça o ***DOWNLOAD ZIP*** de todos esses arquivos e depois ***EXTRAIA*** para o ***c:/xampp/htdocs***!
+#### Em seguida, faça o ***DOWNLOAD ZIP*** de todos esses arquivos e depois ***EXTRAIA*** para o ***c:/xampp/htdocs***
 <img width=440 height=310 src=https://github.com/kahrodriguex/crud-php/blob/main/ImagemEx1.png>
 
 
