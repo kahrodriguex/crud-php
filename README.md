@@ -54,7 +54,7 @@
 
 #### Agora entre no seu navegador e digite ***localhost***, e clique no arquivo do Crud que você acabou de extrair para o htdocs e pronto!
 
-<img width=440 height=310 src=https://github.com/kahrodriguex/crud-php/blob/main/ImagemEx3.png>
+<img width=440 height=320 src=https://github.com/kahrodriguex/crud-php/blob/main/ImagemEx3.png>
 
 # Obrigada pela atenção!!
 
